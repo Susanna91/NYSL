@@ -1,0 +1,304 @@
+.test {
+    width: 200px; 
+    height: 200px;
+    float: left;
+    margin: 17px auto;
+    padding-left: 37px;
+    padding-right: 200px;
+} 
+.logo {
+    padding-left: 200px;
+    padding-right: 200px;
+    float: center;
+    position: relative;
+    font-family: Garamond;
+}
+h1 {
+    font-size: 40px;
+    font-family: Garamond;
+    padding-left: 105px;
+    font-size: 29px;
+} 
+h2 {
+    margin-bottom: 65px;
+}
+a {
+    margin: 0 auto;
+    padding-left: 80px;
+    padding-right: 80px; 
+    line-height: 30pt;
+    font-family: Garamond;
+    font-style: italic;
+}
+.navigation {
+    font-size: 20px;
+    font-family: Garamond;
+    font-style: normal;
+    background-color: springgreen;
+    font-weight: bold;
+    color: black;
+}
+.photo {
+    width: 1420px;
+    height: 500px;
+}
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    flex-direction: column;
+    margin: 11rem 10rem;
+}   
+.box10 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex;
+}
+.box11 {
+    flex-direction: column;
+    align-content: flex-start;
+    display: flex;
+}
+.one {
+    flex-direction: row;
+    width: 50%;
+} 
+.row1 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.input1 {
+    width: 70%;
+} 
+.input2 {
+    width: 75%;
+} 
+.center {
+    text-align: center;
+}
+.size {
+    width: 48%;
+}
+.row2 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.size1 {
+    width: 98%;
+}
+.input3 {
+    width: 85%;
+}
+.row3 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.size2 {
+    width: 48%;
+}
+.input4 {
+    width: 89%;
+} 
+.input5 {
+    width: 78%;
+} 
+.row4 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.size3 {
+    width: 48%;
+}
+.input6 {
+    width: 60%;
+}
+.row5 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.size4 {
+    width: 98%;
+} 
+.row6 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+}
+.size5 {
+    width: 98%;
+} 
+.input7 {
+    width: 84%;
+} 
+.row7 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+} 
+.size6 {
+    width: 48%;
+}
+.input8 {
+    width: 75%;
+}
+.input9 {
+    width: 72%;
+} 
+.box2 {
+    display: flex;
+    flex-direction: column;
+} 
+p {
+    font-weight: bold; 
+}
+
+.box20 {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 10rem;
+    font-weight: bold;
+} 
+.box21 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.box3 {
+    display: flex;
+    margin: 1rem 10rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+} 
+.box22 { 
+    font-weight: bold;
+    flex-direction: column;
+    display: flex;
+    font-size: 15px; 
+    margin-top: 20px;
+}
+.box4 {
+    font-weight: bold;
+    flex-direction: column;
+    display: flex;
+    font-size: 15px; 
+    margin-left: -160px;
+    margin-top: -25px;  
+}
+.box23 { 
+    font-weight: normal;
+    display: flex;
+}
+.box5 {
+    font-weight: normal;
+    display: flex;
+} 
+.box24 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex; 
+} 
+.box6 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex; 
+} 
+.box25 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex; 
+}
+.box7 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex; 
+}
+.box26 {
+    padding-left: 325px;
+    margin-top: -114px; 
+    font-size: 15px;
+}
+.box8 {
+    font-size: 15px;
+    margin-top: -98px;
+    padding-left: 220px;
+} 
+.box27 {
+    flex-direction: row;
+    display: flex;
+}
+.box9 {
+    flex-direction: row;
+    display: flex;
+}
+.box28 {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    display: flex;
+}
+.box29 {
+    flex-direction: column;
+    align-content: flex-start;
+    display: flex;
+}
+.box30 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.permission {
+    text-decoration: underline;
+} 
+.school2  {
+    padding-right: 20px;
+} 
+.text1, .text2  {
+    font-weight: normal;
+    font-size: 12px;
+}
+.row8 {
+    display: flex;
+    justify-content: space-around;
+    line-height: 3;
+}  
+.input10 {
+    width: 60%;
+} 
+.input11 {
+    width: 88%;
+} 
+.size7 {
+    width: 48%;
+}  
+.bottom { 
+    margin: 200px;
+} 

@@ -1,0 +1,92 @@
+.test {
+    width: 120px; 
+    height: 120px;
+    float: left;
+    margin: 0 auto;
+    padding-left: 16px;
+    padding-right: 200px;
+}  
+h1 {
+    font-family: Verdana;
+    font-style: italic;
+    font-size: 40px;
+}  
+h2 {
+    font-size: 26px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-family: Verdana;
+    margin-top: -2px;
+} 
+a {
+    font-family: Verdana;
+    float: right;
+    padding-right: 69px;
+} 
+img {
+    height: 590x;
+    width: 1420px;
+}
+.heading {
+    font-family: Verdana;
+    background: url(stadium.jpg);
+    background-size: cover;
+    width: 1423px;
+    height: 620px;
+    font-family: Verdana;
+} 
+.homebutton {
+    border-color: black; 
+    border-width: 2px;
+    border-style: outset;
+    background-color: blue;
+    color: white;
+    width: 5%;
+    height: 33px;
+    text-align: center;
+    box-shadow: 10px 5px 5px black;
+    margin-top: -15px;
+    float: right;
+}   
+.contactbutton {
+    border-color: black; 
+    border-width: 2px;
+    border-style: outset;
+    background-color: blue;
+    color: white;
+    width: 8%;
+    height: 32px;
+    text-align: center;
+    box-shadow: 10px 5px 5px black; 
+    margin-top: -15px;
+    float: right;
+}  
+.aboutbutton {
+    border-color: black; 
+    border-width: 2px;
+    border-style: outset;
+    background-color: green;
+    color: white;
+    width: 8%;
+    height: 32px;
+    text-align: center;
+    box-shadow: 10px 5px 5px black;
+    margin-top: -15px;
+    float: right;
+} 
+.text {
+    font-family: Verdana;
+    padding-left: 340px;
+    padding-right: 200px;
+    line-height: 2;
+}
+.title {
+    left: -25px;
+    position: relative;
+    font-size: 20px;
+}
+.bottom { 
+    margin: 100px;
+}

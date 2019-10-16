@@ -1,0 +1,121 @@
+h1 {
+    font-size: 30px;
+    background: url(soccer.jpg);
+    background-size: cover;
+    height: 620px;
+    font-family: Verdana;
+} 
+.test {
+    width: 120px; 
+    height: 120px;
+    float: right;
+    margin: 0 auto;
+    padding-left: 200px;
+    padding-right: 200px;
+}  
+.test1 {
+    font-family: Verdana;
+} 
+a {
+    margin: 37px;
+    padding-left: 29px;
+    padding-right: 40px; 
+    line-height: 28pt;
+    color: black;
+    text-decoration: none;
+    background-color: beige;
+}
+.heading {
+    padding-left: 500px;
+    margin-top: 10px;
+} 
+.caption {
+    font-weight: bold;
+} 
+table {
+    border-collapse: collapse;
+  }
+  
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  .bottom { 
+    margin: 10px;
+}
+.map1 { 
+    height: 240px;
+    padding-left: 500px;
+    margin-top: -119px;
+}
+.l1 { 
+    margin-top: 54px;
+}
+.google { 
+    font-size: 14px;
+
+}
+.l2, .l3, .l4, .l5, .l6 { 
+    margin-top: 70px;
+    color: indianred;
+}
+.game {
+    padding-left: 500px;
+    float: center;
+}
+.gamelocation {
+    font-weight: bold;
+    margin-left: -340px;
+} 
+.col {
+    background-color: khaki;
+}
+.title2 {
+    font-weight: bold;
+    margin-top: 100px;
+    font-size: 22px;
+} 
+.link {
+    padding-left: 8px;
+    font-style: normal;
+} 
+.title1 {
+    padding-left: 15px;
+    margin-top: 100px;
+} 
+.alpha {  
+    list-style-type: lower-alpha;
+} 
+.square {
+    list-style-type: square;
+    margin-left: 40px;
+    font-weight: normal;
+  }
+.doDecimal {
+    list-style: decimal;
+    margin-left: 50px;
+    padding-right: 10px;
+}  
+.circle {
+    list-style: circle;
+    margin-left: 50px;
+    padding-right: 10px;
+}   
+.font {
+    font-family: Garamond;
+    line-height: 2;
+}
+.info { 
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 85px;
+}
+.l2 { 
+    margin-top: 70px;
+    color: indianred;
+}
+.l1 { 
+    margin-top: 54px;
+    color: indianred;
+}

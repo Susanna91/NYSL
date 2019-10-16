@@ -1,0 +1,208 @@
+.test {
+    width: 200px; 
+    height: 200px;
+    float: left;
+    margin: 17px auto;
+    padding-left: 37px;
+    padding-right: 200px;
+}  
+.logo {
+    padding-left: 200px;
+    padding-right: 200px;
+    float: center;
+    position: relative;
+    font-family: Garamond;
+}
+.photo {
+    width: 1420px;
+    height: 860px;
+}
+h2 {
+    text-align: left;
+    font-family: Garamond;
+    font-size: 30px;
+    padding-left: 70px;
+}
+p {
+    text-align: left;
+    font-family: Garamond;
+    font-size: 20px;
+}   
+a {
+    margin: 0 auto;
+    padding-left: 80px;
+    padding-right: 80px; 
+    line-height: 30pt;
+    font-family: Garamond;
+    font-style: italic;
+}
+h1 {
+    font-size: 30px;
+    font-family: Garamond;
+    padding-left: 105px;
+}  
+.test2 {
+    font-style: italic;
+    margin-top: 3px;
+    line-height: 1,5;
+    font-style: normal;
+    padding-left: 25px;
+    font-family: Garamond;
+    font-size: 18px;
+}    
+.test1 {
+    font-family: Garamond;
+    font-size: 20px;
+}  
+.test3 {
+    padding-left: 405px;
+    margin-top: -50px;
+    font-family: Garamond;
+    font-size: 18px;
+}  
+.navigation {
+    font-size: 20px;
+    font-family: Garamond;
+    font-style: normal;
+    background-color: springgreen;
+    font-weight: bold;
+    color: black;
+}
+th {
+    font-weight: bold;
+    font-family: Garamond;
+  }
+table {
+    border-collapse: separate;
+    border-spacing: 50px;
+    float: center;
+    padding-left: 90px;
+    margin-top: -14px;
+}
+.link {
+    font-family: Garamond;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 8px;
+    color: black;
+    padding-left: 20px;
+    bottom: -33px;
+} 
+.link1 {
+    font-size: 16px; 
+    font-family: Garamond;
+    font-style: normal;
+    position: relative;
+    color: black;
+    bottom: -100px;
+    text-decoration: underline;
+} 
+.link2 {
+    font-family: Garamond;
+    font-style: normal;
+    font-size: 22px;
+    padding-left: 8px;
+    color: black;
+}  
+.alpha {  
+    list-style-type: lower-alpha;
+} 
+.square {
+    list-style-type: square;
+    margin-left: 40px;
+    font-weight: normal;
+  }
+.doDecimal {
+    list-style: decimal;
+    margin-left: 50px;
+    padding-right: 10px;
+}  
+.circle {
+    list-style: circle;
+    margin-left: 50px;
+    padding-right: 10px;
+}   
+.font {
+    font-family: Garamond;
+    line-height: 2;
+}
+.title1 {
+    padding-left: 15px;
+    margin-top: 177px;
+} 
+.title2 {
+    font-weight: bold;
+} 
+li {
+    font-weight: normal;
+}
+table {
+    border-collapse: collapse;
+  }
+  
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+  }
+.caption {
+    font-weight: bold;
+}  
+.heading {
+    padding-left: 15px;
+} 
+.col {
+    background-color: khaki;
+} 
+.register { 
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 22px;
+} 
+.bottom { 
+    margin: 10px;
+}
+.map1 { 
+    height: 240px;
+    padding-left: 500px;
+    margin-top: -119px;
+}
+.l1 { 
+    margin-top: 54px;
+    color: darkblue;
+}
+.google { 
+    font-size: 14px;
+}
+.l2 { 
+    margin-top: 70px;
+    color: darkblue;
+}
+.info { 
+    font-size: 10px;
+    font-weight: normal;
+}
+.heading1 {
+    padding-left: 500px;
+    margin-top: 10px;
+} 
+.game {
+    padding-left: 500px;
+    float: center;
+}
+.gamelocation {
+    font-weight: bold;
+    margin-left: -340px;
+} 
+.northside {
+    text-align: left;
+    font-family: Garamond;
+    font-size: 30px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+} 

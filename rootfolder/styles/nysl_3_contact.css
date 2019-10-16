@@ -1,0 +1,70 @@
+.test {
+    width: 200px; 
+    height: 200px;
+    float: left;
+    margin: 17px auto;
+    padding-left: 37px;
+    padding-right: 200px;
+}  
+.logo {
+    padding-left: 200px;
+    padding-right: 200px;
+    float: center;
+    position: relative;
+    font-family: Garamond;
+}
+.photo {
+    width: 1420px;
+    height: 860px;
+}
+h1 {
+    font-size: 30px;
+    font-family: Garamond;
+} 
+h2 {
+    text-align: left;
+    font-family: Garamond;
+    font-size: 30px;
+    padding-left: 70px;
+}
+.navigation {
+    font-size: 20px;
+    font-family: Garamond;
+    font-style: normal;
+    background-color: springgreen;
+    font-weight: bold;
+    color: black;
+}
+a {
+    margin: 0 auto;
+    padding-left: 80px;
+    padding-right: 80px; 
+    line-height: 30pt;
+    font-family: Garamond;
+    font-style: italic;
+}
+.navigation {
+    font-size: 20px;
+    font-family: Garamond;
+    font-style: normal;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.text { 
+    left: -25px;
+    position: relative;
+    font-size: 19px;
+    font-family: Garamond;
+    padding-left: 340px;
+    padding-right: 200px;
+}
+.link {
+    font-family: Garamond;
+    font-style: normal;
+    font-size: 18px;
+    padding-left: 8px;
+    color: black;
+}
+.bottom { 
+    margin: 100px;
+}

@@ -1,0 +1,11 @@
+.submit {
+    font-style: Garamond;
+    font-size: 25px;
+    text-align: center;
+}
+.goback {
+    font-style: Garamond;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: underline;
+}

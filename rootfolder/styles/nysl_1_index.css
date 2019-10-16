@@ -1,0 +1,62 @@
+.test {
+    width: 120px; 
+    height: 120px;
+    float: right;
+    margin: 0 auto;
+    padding-left: 200px;
+    padding-right: 200px;
+}  
+h2 {
+    color: white;
+    background: black;
+    text-align: center;
+    font-family: Verdana;
+    margin-bottom: 85px;
+}   
+p {
+    margin-top: 0 auto;
+    padding-left: 250px;
+    padding-right: 250px;
+}   
+a {
+    margin: 37px;
+    padding-left: 29px;
+    padding-right: 40px; 
+    line-height: 28pt;
+    color: black;
+    text-decoration: none;
+    background-color: beige;
+}
+h1 {
+    font-size: 30px;
+    background: url(soccer.jpg);
+    background-size: cover;
+    height: 620px;
+    font-family: Verdana;
+}  
+.test2 {
+    font-style: italic;
+    margin-top: -30px;
+}    
+.test1 {
+    font-family: Verdana;
+}  
+.test3 {
+    padding-left: 280px;
+}  
+.bottom { 
+    margin: 65px;
+}
+.link {
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 15px;
+    padding-left: 0px;
+    color: sienna;
+    background-color: white;
+} 
+.link1 {
+    background-color: white;
+    font-size: 14px;
+    padding-left: 3px;
+} 

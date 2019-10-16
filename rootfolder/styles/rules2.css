@@ -1,0 +1,206 @@
+.test {
+    width: 120px; 
+    height: 120px;
+    float: left;
+    margin: 0 auto;
+    padding-left: 16px;
+    padding-right: 200px;
+    margin-top: 60px;
+}
+.test1 {
+    padding-left: 336px;
+    font-style: italic;
+} 
+.test4 {
+    padding-left: 360px;
+} 
+.text {
+    padding-left: 360px;
+}  
+h1 {
+    font-family: Verdana;
+    font-style: italic;
+    font-size: 40px;
+}  
+h2 {
+    font-size: 26px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-family: Verdana;
+    margin-top: -2px;
+} 
+h3 {
+    font-size: 26px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-family: Verdana;
+    margin-top: -2px;
+}
+.test3 {
+    font-family: Verdana;
+}
+.dates {
+    font-style: italic;
+} 
+img {
+    height: 590x;
+    width: 1420px;
+}
+.heading {
+    font-family: Verdana;
+    background: url(stadium.jpg);
+    background-size: cover;
+    width: 1420px;
+    height: 620px;
+    font-family: Verdana;
+}  
+.homebutton {
+    border-color: black; 
+    border-width: 2px;
+    border-style: outset;
+    background-color: green;
+    color: white;
+    width: 5%;
+    height: 33px;
+    text-align: center;
+    box-shadow: 10px 5px 5px black;
+    margin-top: -15px;
+    float: right;
+}   
+.button {
+    border-color: black; 
+    border-width: 2px;
+    border-style: outset;
+    background-color: blue;
+    color: white;
+    width: 8%;
+    height: 32px;
+    text-align: center;
+    box-shadow: 10px 5px 5px black; 
+    margin-top: -15px;
+    float: right;
+}    
+.index {
+    font-family: Verdana;
+}
+.link {
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 16px;
+    padding-left: 20px;
+    color: black;
+    text-align: left;
+}
+.link1 {
+    font-size: 14px; 
+    padding-left: 8px;
+    font-family: Verdana;
+    font-style: normal;
+    position: absolute;
+    bottom: -200px;
+    color: black;
+}    
+.bottom { 
+    margin: 100px;
+}
+.heading1 {
+    padding-left: 500px;
+    margin-top: 10px;
+} 
+.caption {
+    font-weight: bold;
+} 
+table {
+    border-collapse: collapse;
+  }
+  
+td, th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: center;
+  }
+  .bottom { 
+    margin: 100px;
+}
+.map1 { 
+    height: 240px;
+    padding-left: 500px;
+    margin-top: -119px;
+}
+.l1 { 
+    margin-top: 54px;
+}
+.google { 
+    font-size: 14px;
+}
+.l2, .l3, .l4, .l5, .l6 { 
+    margin-top: 70px;
+}
+.game {
+    padding-left: 500px;
+    float: center;
+}
+.gamelocation {
+    font-weight: bold;
+    margin-left: -340px;
+} 
+.col {
+    background-color: khaki;
+}
+.title2 {
+    font-weight: bold;
+    margin-top: 160px;
+} 
+.link {
+    padding-left: 8px;
+    font-style: normal;
+} 
+.title1 {
+    padding-left: 15px;
+    margin-top: 100px;
+} 
+.alpha {  
+    list-style-type: lower-alpha;
+} 
+.square {
+    list-style-type: square;
+    margin-left: 40px;
+    font-weight: normal;
+  }
+.doDecimal {
+    list-style: decimal;
+    margin-left: 50px;
+    padding-right: 10px;
+    font-weight: normal;
+}  
+.circle {
+    list-style: circle;
+    margin-left: 50px;
+    padding-right: 10px;
+}   
+.font {
+    font-family: Garamond;
+    line-height: 2;
+    float: center;
+}
+h3 {
+    font-size: 26px;
+    text-align: center;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-family: Garamond;
+    margin-top: -2px;
+    padding-right: 400px;
+} 
+.center {
+    text-align: center;
+    padding-right: 400px;
+}
+.title3 {
+    font-weight: bold;
+}
